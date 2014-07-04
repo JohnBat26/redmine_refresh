@@ -1,0 +1,3 @@
+ru:
+  refresh_in: "Обновить через %{value}с"
+  automatic_refresh: "Автообновление"
